@@ -1,0 +1,6 @@
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\bin\Debug\mazesolver1.exe.config
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\bin\Debug\mazesolver1.exe
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\bin\Debug\mazesolver1.pdb
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\obj\Debug\mazesolver1.csprojResolveAssemblyReference.cache
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\obj\Debug\mazesolver1.exe
+\\fs1.ad.ssis.nu\17kagi\documents\visual studio 2015\Projects\mazesolver1\mazesolver1\obj\Debug\mazesolver1.pdb
